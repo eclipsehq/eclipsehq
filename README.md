@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   </p>
 <h1></h1>
-<p>I am a selftought programmer from the Netherlands, focusing on cybersecurity.</p>
+<p>I am a self taught programmer from the Netherlands, focusing on cybersecurity.</p>
 <h1></h1>
 
   <a href="https://discord.com/users/1419364142166577172">
